@@ -1,0 +1,12 @@
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: "Merriweather Sans", sans-serif;
+    font-weight: 300;
+}
+section, header {
+    width: 80%;
+    max-width: 900px;
+    margin: auto;
+    margin-bottom: 5rem;
+}
