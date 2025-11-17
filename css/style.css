@@ -43,11 +43,12 @@ header p {
     font-family: "Merriweather", serif;
     color: #743B09;
 }
- p, blockquote{
-padding: 1rem 0;
+blockquote{
+margin: 4rem 0 2rem 0;
  }
 
 blockquote {
+    line-height: 1.6;
     font-style: italic;
     font-size: 1.562rem;
     hanging-punctuation: first;
