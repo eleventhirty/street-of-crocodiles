@@ -3,3 +3,10 @@
 [Version 1](https://eleventhirty.github.io/street-of-crocodiles/)  
 *10 November 2025*  
 Creating my first HTML page  
+
+[Version 2](https://eleventhirty.github.io/street-of-crocodiles/index_two.thml)  
+*17 November 2025*  
+Creating my first CSS
+
+
+
