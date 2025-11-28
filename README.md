@@ -9,4 +9,5 @@ Creating my first HTML page
 Creating my first CSS
 
 [Version 3](https://eleventhirty.github.io/street-of-crocodiles/index_three.html)
-
+*24 Noveber 2025*
+Added navigation and links
