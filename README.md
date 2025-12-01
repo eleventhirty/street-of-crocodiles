@@ -11,3 +11,7 @@ Creating my first CSS
 [Version 3](https://eleventhirty.github.io/street-of-crocodiles/index_three.html)  
 *24 November 2025*
 Added navigation and links
+
+[Version 4](https://eleventhirty.github.io/street-of-crocodiles/index_four.html)  
+*1 December 2025*
+Added images and SVG icons
